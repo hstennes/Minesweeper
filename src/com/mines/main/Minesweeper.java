@@ -12,6 +12,7 @@ import com.mines.framework.MouseInput;
 import com.mines.graphics.Texture;
 
 //Created by Hank Stennes
+
 public class Minesweeper extends Canvas implements Runnable {
 
 	private static final long serialVersionUID = 1L;
